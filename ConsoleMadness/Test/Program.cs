@@ -11,6 +11,7 @@ namespace Test
         static void Main(string[] args)
         {
             //Et Eller Andet
+            //Men mon andet også er to?
         }
     }
 }
